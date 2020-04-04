@@ -16,6 +16,8 @@ table of contents
 
 7. REX
 
+8. Object Syntax
+
 # Raku is brother of Perl
 
 Perl got a sister called Ruby, who is almost died in 2018, and since Perl version 6, the brother called Raku is existed.
