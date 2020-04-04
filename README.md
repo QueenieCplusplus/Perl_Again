@@ -30,7 +30,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
 9. Ref of REX (正規表達式之參照)
 
-10. Data 資料命名空間的參照用法
+10. Data (資料命名空間的參照用法)
 
 # Raku is brother of Perl
 
