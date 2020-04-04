@@ -107,4 +107,66 @@ https://www.cpan.org
     $ make test
     $ make install
 
+# Check ENV Path
+
+    $ perl -V
+
+        Summary of my perl5 (revision 5 version 18 subversion 4) configuration:
+
+          Platform:
+            osname=darwin, osvers=19.0, archname=darwin-thread-multi-2level
+            uname='darwin osx310.apple.com 19.0 darwin kernel version 18.0.0: tue jul 9 11:12:08 pdt 2019; root:xnu-4903.201.2.100.7~1release_x86_64 x86_64 '
+            config_args='-ds -e -Dprefix=/usr -Dccflags=-g  -pipe  -Dldflags= -Dman3ext=3pm -Duseithreads -Duseshrplib -Dinc_version_list=none -Dcc=cc'
+            hint=recommended, useposix=true, d_sigaction=define
+            useithreads=define, usemultiplicity=define
+            useperlio=define, d_sfio=undef, uselargefiles=define, usesocks=undef
+            use64bitint=define, use64bitall=define, uselongdouble=undef
+            usemymalloc=n, bincompat5005=undef
+          Compiler:
+            cc='cc', ccflags =' -g -pipe -fno-common -DPERL_DARWIN -fno-strict-aliasing -fstack-protector',
+            optimize='-Os',
+            cppflags='-g -pipe -fno-common -DPERL_DARWIN -fno-strict-aliasing -fstack-protector'
+            ccversion='', gccversion='4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.29.20) (-macos10.15-objc-selector-opts)', gccosandvers=''
+            intsize=4, longsize=8, ptrsize=8, doublesize=8, byteorder=12345678
+            d_longlong=define, longlongsize=8, d_longdbl=define, longdblsize=16
+            ivtype='long', ivsize=8, nvtype='double', nvsize=8, Off_t='off_t', lseeksize=8
+            alignbytes=8, prototype=define
+          Linker and Libraries:
+            ld='cc', ldflags =' -fstack-protector'
+            libpth=/usr/lib /usr/local/lib
+            libs= 
+            perllibs=
+            libc=, so=dylib, useshrplib=true, libperl=libperl.dylib
+            gnulibc_version=''
+          Dynamic Linking:
+            dlsrc=dl_dlopen.xs, dlext=bundle, d_dlsymun=undef, ccdlflags=' '
+            cccdlflags=' ', lddlflags=' -bundle -undefined dynamic_lookup -fstack-protector'
+
+
+        Characteristics of this binary (from libperl): 
+          Compile-time options: HAS_TIMES MULTIPLICITY PERLIO_LAYERS
+                                PERL_DONT_CREATE_GVSV
+                                PERL_HASH_FUNC_ONE_AT_A_TIME_HARD
+                                PERL_IMPLICIT_CONTEXT PERL_MALLOC_WRAP
+                                PERL_PRESERVE_IVUV PERL_SAWAMPERSAND USE_64_BIT_ALL
+                                USE_64_BIT_INT USE_ITHREADS USE_LARGE_FILES
+                                USE_LOCALE USE_LOCALE_COLLATE USE_LOCALE_CTYPE
+                                USE_LOCALE_NUMERIC USE_PERLIO USE_PERL_ATOF
+                                USE_REENTRANT_API
+          Locally applied patches:
+            /Library/Perl/Updates/<version> comes before system perl directories
+            installprivlib and installarchlib points to the Updates directory
+          Built under darwin
+          Compiled at Feb 28 2020 22:56:25
+          @INC:
+            /Library/Perl/5.18/darwin-thread-multi-2level
+            /Library/Perl/5.18
+            /Network/Library/Perl/5.18/darwin-thread-multi-2level
+            /Network/Library/Perl/5.18
+            /Library/Perl/Updates/5.18.4
+            /System/Library/Perl/5.18/darwin-thread-multi-2level
+            /System/Library/Perl/5.18
+            /System/Library/Perl/Extras/5.18/darwin-thread-multi-2level
+            /System/Library/Perl/Extras/5.18
+            .
 
