@@ -16,7 +16,7 @@ table of contents
 
 7. REX
 
-# Perl 有兩個建構系統
+# Perl has 2 build systems
 
 * Makefile.PL
 
