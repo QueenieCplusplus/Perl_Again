@@ -9,9 +9,10 @@ Dragon->speak;
 iBot->speak;
 tPrincess->speak;
 
-> Qong Qong !
-> Gi Gi Gi Gi !
-> Hi! I am T Princess.
+# output
+    #> Qong Qong !
+    #> Gi Gi Gi Gi !
+    #> Hi! I am T Princess.
 
 # class name is constant, and we can put the class name in the variable also.
 # to define a variable in this way, start from my $variable_name
