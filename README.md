@@ -26,6 +26,21 @@ table of contents
 
 -[] thin wrapper
 
+# how to call the building modules in code
+
+for instance of Buildfile
+
+     use 5.006;
+     use Module::Build;
+     
+     my $builderOne = Module::Build->new(
+     
+        //omit...
+        
+     );
+     
+     $builderOne->create_build_script();
+
 # Check Version in OSX
 
     $ perl -v
