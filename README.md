@@ -26,7 +26,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
 8. Reference (進階參照)
 
-9. REX (正規表達式)
+9. Ref of REX (正規表達式之參照)
 
 # Raku is brother of Perl
 
