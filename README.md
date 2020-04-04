@@ -18,9 +18,9 @@ table of contents
 
 # Perl has 2 build systems
 
-* Makefile.PL
+-[] Makefile.PL from ExtUtils::Makemaker, but is out of date now
 
-* Build.PL
+-[x] Build.PL 
 
 # Check Version in OSX
 
