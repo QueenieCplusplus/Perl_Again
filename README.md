@@ -24,7 +24,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
-8. Reference (參照)
+8. Reference (進階參照)
 
 9. REX (正規表達式)
 
