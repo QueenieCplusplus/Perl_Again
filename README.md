@@ -20,7 +20,7 @@ table of contents
 
 類似 PHP, 
 
--> 其實是類似 swift 的 .
+-> calling arrow 其實是類似 swift 的 . 調用符號 calling point
 
 => 其實類似 java 的 = 賦值符號 assignment
 
