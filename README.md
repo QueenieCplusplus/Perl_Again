@@ -102,11 +102,30 @@ https://www.cpan.org
     $ tar -xzf pkg.gz
     $ cd pkg
     
+    ----------------------------------------------
+    
     $ perl Makefile.pl
     $ make
     $ make test
     $ make install
-
+    
+    $ perl Makefile.PL INSTALL_BASE = /Users/home/username
+    # to set up the ENV Path for PERL5LIB
+    # this way helps perl to add directory to path of Modules
+    
+    $ export PERL5LIB = /Users/home/username
+    
+    ------------------------------------------------
+    
+    Module:Build
+    
+    $ perl Build.PL
+    $ perl Build
+    $ perl Build test
+    $ perl Build install
+    
+    ------------------------------------------------
+    
 # Check ENV Path
 
     $ perl -V
