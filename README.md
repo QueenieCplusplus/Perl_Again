@@ -16,6 +16,10 @@ table of contents
 
 7. REX
 
+# Raku is brother of Perl
+
+Perl got a sister called Ruby, who is almost died in 2018, and since Perl version 6, the brother called Raku is existed.
+
 # Symbols used in Perl
 
 類似 PHP, 
