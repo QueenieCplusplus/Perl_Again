@@ -63,6 +63,16 @@ https://perlmaven.com/running-external-programs-from-perl
 
 https://github.com/QueenieCplusplus/Perl (see code)
 
+# PL & PM
+
+讀入檔案、引用模組方法、匯出模組的匯入常式 (副檔名須改為 .pm)
+
+* require https://github.com/QueenieCplusplus/Perl/blob/master/require.pl
+
+* use https://github.com/QueenieCplusplus/Perl/blob/master/use.pl
+
+* import https://github.com/QueenieCplusplus/Perl/blob/master/import.pl
+
 
 # Pod 簡明舊式文件
 
