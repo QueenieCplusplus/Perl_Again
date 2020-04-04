@@ -16,6 +16,12 @@ table of contents
 
 7. REX
 
+# Perl 有兩個建構系統
+
+* Makefile.PL
+
+* Build.PL
+
 # Check Version in OSX
 
     $ perl -v
