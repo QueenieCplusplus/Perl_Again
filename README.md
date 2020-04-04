@@ -34,6 +34,24 @@ table of contents
 
 -[] thin wrapper
 
+# Execute Perl Program
+
+https://perlmaven.com/running-external-programs-from-perl
+
+* running with security risk
+
+       my $param = get_from_a_web_form();
+       my $cmd = "checkfiles $param";
+       system($cmd);
+
+
+* running without security risks
+
+       my $param = get_from_a_web_form();
+       my @cmd = ("checkfiles", $param);
+       system(@cmd);
+
+
 # Pod 簡明舊式文件
 
 format plz see perlpod & perlpodspec
