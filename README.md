@@ -30,13 +30,13 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
 
 # Perl has 4 build systems
 
-- []  Makefile.PL from ExtUtils::Makemaker, but is out of date now
+- [x]  Makefile.PL from ExtUtils::Makemaker, but is out of date now
 
 - [x] Build.PL from Module::Build, it is built-in module above version in 5.10+
 
-- []  hybrid
+- [x]  hybrid
 
-- []  thin wrapper
+- [x]  thin wrapper
 
 # Execute Perl Program
 
