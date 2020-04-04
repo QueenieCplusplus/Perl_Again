@@ -34,6 +34,12 @@ table of contents
 
 -[] thin wrapper
 
+# Pod 簡明舊式文件
+
+format plz see perlpod & perlpodspec
+
+perldoc only parse the pod part (=), and escaping the code part.
+
 # how to call the building modules in code
 
 for instance of Buildfile
