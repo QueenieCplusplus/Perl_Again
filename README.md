@@ -110,6 +110,9 @@ https://www.cpan.org
     $ make install
     
     # 使用 PERL5LIB 環境變數，將目錄名稱賦值予此變數。
+    # 方便其他同事只要擁有相同變數名稱，即便在不同機器，也能找到模組所在的目錄路徑值
+    # 在 類 Unix 系統中，使用 : 隔開目錄名稱
+    # 在 windows 系統中，使用 ; 隔開目錄名稱
     
     $ perl Makefile.PL INSTALL_BASE = /Users/home/username
     # to set up the ENV Path for PERL5LIB
@@ -129,6 +132,8 @@ https://www.cpan.org
     ------------------------------------------------
     
     use lib got weakness since our module in machine is different in path comparing with thers, so avoid to use this way.   
+    
+    use lib 'url_path_in_machine';
     
     ------------------------------------------------
     
