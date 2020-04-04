@@ -20,7 +20,7 @@ table of contents
 
 -[] Makefile.PL from ExtUtils::Makemaker, but is out of date now
 
--[x] Build.PL 
+-[x] Build.PL from Module::Build, it is built-in module above version in 5.10+
 
 # Check Version in OSX
 
