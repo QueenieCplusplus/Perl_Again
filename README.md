@@ -12,7 +12,7 @@ table of contents
 
 5. List Ops: map, sort, print, grep (串列運算符號)
 
-6. File Ops: open, read, -X (test cmd options) (檔案開啟關閉與讀寫方法)
+6. File Ops: open, read, -X (test cmd options) (檔案代號的參照)
 
 7. Object Syntax (物件)
 
