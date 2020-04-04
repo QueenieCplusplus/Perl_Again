@@ -16,11 +16,15 @@ table of contents
 
 7. REX
 
-# Perl has 2 build systems
+# Perl has 4 build systems
 
 -[] Makefile.PL from ExtUtils::Makemaker, but is out of date now
 
 -[x] Build.PL from Module::Build, it is built-in module above version in 5.10+
+
+-[] hybrid
+
+-[] thin wrapper
 
 # Check Version in OSX
 
