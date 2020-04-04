@@ -77,6 +77,12 @@ https://github.com/QueenieCplusplus/Perl (see code)
 
 讀入檔案、引用模組方法、匯出模組的匯入常式 (副檔名須改為 .pm)
 
+PL is Perl Lib
+
+PM is Perl Module
+
+they seems alike.
+
 * require https://github.com/QueenieCplusplus/Perl/blob/master/require.pl
 
 * use https://github.com/QueenieCplusplus/Perl/blob/master/use.pl
