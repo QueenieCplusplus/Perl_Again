@@ -6,7 +6,7 @@ table of contents
 
 2. Subroutine Ref (副常式參照)
 
-3. Basic Types: scalar, array, hash (純量｜陣列｜雜湊)
+3. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
 
 4. Control Logics: while, if, for, foreach (邏輯閘)
 
