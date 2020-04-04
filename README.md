@@ -101,5 +101,10 @@ https://www.cpan.org
     $ wget url/pkg.gz
     $ tar -xzf pkg.gz
     $ cd pkg
+    
+    $ perl Makefile.pl
+    $ make
+    $ make test
+    $ make install
 
 
