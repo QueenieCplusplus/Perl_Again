@@ -4,19 +4,17 @@ table of contents
 
 1. How to execute a perl program in system
 
-2. subroutine
+2. Subroutine Ref (副常式參照)
 
-3. Basic Types: scalar, array, hash
+3. Basic Types: scalar, array, hash (純量｜陣列｜雜湊)
 
-4. Control Logics: while, if, for, foreach
+4. Control Logics: while, if, for, foreach (邏輯閘)
 
-5. List Ops: map, sort, print, grep
+5. List Ops: map, sort, print, grep (串列運算符號)
 
-6. File Ops: open, read, -X (test cmd options)
+6. File Ops: open, read, -X (test cmd options) (檔案開啟關閉與讀寫方法)
 
-7. REX
-
-8. Object Syntax
+7. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
 
@@ -25,6 +23,10 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/param.PL
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
+
+8. Reference (參照)
+
+9. REX (正規表達式)
 
 # Raku is brother of Perl
 
