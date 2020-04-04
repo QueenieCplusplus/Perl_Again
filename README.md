@@ -28,6 +28,10 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
 
 => 其實類似 java 的 = 賦值符號 assignment
 
+# Lexical Variable
+
+    my $vaiable_name
+
 # Perl has 4 build systems
 
 - [x]  Makefile.PL from ExtUtils::Makemaker, but is out of date now
