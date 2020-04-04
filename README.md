@@ -96,3 +96,10 @@ table of contents
 https://www.cpan.org
 
 
+# Manually Install Modules
+
+    $ wget url/pkg.gz
+    $ tar -xzf pkg.gz
+    $ cd pkg
+
+
