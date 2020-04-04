@@ -2,9 +2,11 @@
 
 table of contents
 
-1. How to execute a perl program in system
+0. How to execute a perl program in system
 
-2. Subroutine Ref (副常式參照)
+1. Subroutine Ref (副常式參照)
+
+2. Scoping (參照的作用域)
 
 3. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
 
@@ -27,6 +29,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 8. Reference (進階參照)
 
 9. Ref of REX (正規表達式之參照)
+
+10. Data 資料命名空間的參照用法
 
 # Raku is brother of Perl
 
