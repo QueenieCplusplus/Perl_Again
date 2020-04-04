@@ -109,6 +109,8 @@ https://www.cpan.org
     $ make test
     $ make install
     
+    # 使用 PERL5LIB 環境變數，將目錄名稱賦值予此變數。
+    
     $ perl Makefile.PL INSTALL_BASE = /Users/home/username
     # to set up the ENV Path for PERL5LIB
     # this way helps perl to add directory to path of Modules
@@ -123,6 +125,10 @@ https://www.cpan.org
     $ perl Build
     $ perl Build test
     $ perl Build install
+    
+    ------------------------------------------------
+    
+    use lib got weakness since our module in machine is different in path comparing with thers, so avoid to use this way.   
     
     ------------------------------------------------
     
