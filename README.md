@@ -60,6 +60,36 @@ table of contents
           -x[directory]     ignore text before #!perl line (optionally cd to directory)
           -X                disable all warnings
 
-        Run 'perldoc perl' for more help with Perl.
+        
+        
+# More Helps
+
+    $ perldoc perl
+
+        PERL(1)               User Contributed Perl Documentation              PERL(1)
+
+
+
+        NAME
+               perl - The Perl 5 language interpreter
+
+        SYNOPSIS
+               perl [ -sTtuUWX ]      [ -hv ] [ -V[:configvar] ]
+                    [ -cw ] [ -d[t][:debugger] ] [ -D[number/list] ]
+                    [ -pna ] [ -Fpattern ] [ -l[octal] ] [ -0[octal/hexadecimal] ]
+                    [ -Idir ] [ -m[-]module ] [ -M[-]'module...' ] [ -f ]
+                    [ -C [number/list] ]      [ -S ]      [ -x[dir] ]
+                    [ -i[extension] ]
+                    [ [-e|-E] 'command' ] [ -- ] [ programfile ] [ argument ]...
+
+               For more information on these options, you can run "perldoc perlrun".
+
+        GETTING HELP
+               The perldoc program gives you access to all the documentation that
+               comes with Perl.  You can get more documentation, tutorials and
+               community support online at <http://www.perl.org/>.
+
+        :
+
 
 
