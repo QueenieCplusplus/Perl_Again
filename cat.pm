@@ -26,3 +26,10 @@ sub speak {
 
 # output
 # > a cat is going to speak out loud, saying miao!"
+
+# Alternative way
+sub speak {
+
+    my $class = shift;
+    $class -> SUPER::speak;
+}
