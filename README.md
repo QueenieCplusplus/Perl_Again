@@ -16,7 +16,9 @@ table of contents
    
    grep（global_search regular expression, print out the line) 全面搜索正規表達式列印
    
-   sort & map 常見 (故略)
+   sort 常見 (故略)
+   
+   map (to do...)
    
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/grep_list.PL
 
