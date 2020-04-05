@@ -1,5 +1,11 @@
 # Perl_Again
 
+# Perl Program Env
+
+http://www.barebones.com/support/textwrangler/coderdojo.html
+
+# Sybtax
+
 table of contents
 
 基本資料結構部分：
