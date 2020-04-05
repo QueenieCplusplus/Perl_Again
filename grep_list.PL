@@ -6,7 +6,7 @@
 # after GREP process, it prints out in Line-alike List.
 
 # syntax:
-# list_of_$_ = grep ( expression, list)
+# list_of_$_ = grep expression, list
 
 my @input_salary = (24000, 28000, 35000, 36000, 40000, 42000, 44000, 47000);
 my @bigger_than_40k = grep $_ > 40000, @input_salary;
