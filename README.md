@@ -2,7 +2,9 @@
 
 # Perl Program Env
 
-check version of OSX and version of BBedit || textWrangler
+check version of OSX and version of BBedit || textWrangler || VScode
+
+https://wheatoncollege.edu/wp-content/uploads/2010/06/Mac_InstallPerl.pdf (engine)
 
 http://www.barebones.com/support/textwrangler/coderdojo.html (textWrangler)
 
