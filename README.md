@@ -55,6 +55,12 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
 # Lexical Variable
 
     my $vaiable_name
+    
+    $! means error output
+    
+    $& mean comparing  output (such as Boolean)
+    
+    $_ means loop_variable (such as Iterator)
 
 # Perl has 4 build systems
 
