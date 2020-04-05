@@ -14,6 +14,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/BBEdit.png (run code)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/4.code.png (code)
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/5.debug.png (debug log)
+
 
 # Install Lib and Modules
 
