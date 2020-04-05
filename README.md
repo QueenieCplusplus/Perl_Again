@@ -12,6 +12,31 @@ http://www.barebones.com/support/bbedit/updates.html#new13 (download)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/BBEdit.png (run code)
 
+# install modules
+
+https://how-to.fandom.com/wiki/How_to_install_PERL_modules
+
+perl -MCPAN -e shell
+
+         CPAN.pm requires configuration, but most of it can be done automatically.
+      If you answer 'no' below, you will enter an interactive dialog for each
+      configuration option instead.
+
+      Would you like to configure as much as possible automatically? [yes] yes
+
+       <install_help>
+
+      Warning: You do not have write permission for Perl library directories.
+
+      To install modules, you need to configure a local Perl library directory or
+      escalate your privileges.  CPAN can help you by bootstrapping the local::lib
+      module or by configuring itself to use 'sudo' (if available).  You may also
+      resolve this problem manually if you need to customize your setup.
+
+      What approach do you want?  (Choose 'local::lib', 'sudo' or 'manual')
+      
+local::lib   
+
 # Syntax
 
 table of contents
