@@ -35,5 +35,5 @@ sub toString {
     my ( @data ) = @_;
     open my $string_fh, '>', \ my $sting;
     output2fh($string_fh, @data);
-    $sting;
+    $string;
 }
