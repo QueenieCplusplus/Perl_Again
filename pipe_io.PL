@@ -16,7 +16,7 @@ while( <$pipe> ) {
 # via module
 
 use IO::Pipe;
-my $pipe = IO::Pipe -> new;ß
+my $pipe = IO::Pipe -> new;  
 
 $pipe -> reader( " $^X -V " ); # $^X means executable program
 
