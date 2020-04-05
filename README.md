@@ -16,6 +16,8 @@ table of contents
 
 6. File Ops: open, read, -X (test cmd options) (檔案代號的參照)
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/file_io.PL
+
 7. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
