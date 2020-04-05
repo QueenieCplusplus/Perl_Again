@@ -37,6 +37,8 @@ perl -MCPAN -e shell
       
 local::lib   
 
+       then choose the url to download lib from mirror server in CDN
+
 install Bundle::CPAN
 
 install <Module_name>
