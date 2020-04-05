@@ -4,7 +4,7 @@ table of contents
 
 0. How to execute a perl program in system
 
-1. Subroutine Ref (副常式參照)
+1. Code Ref (副常式參照)
 
 2. Scoping (參照的作用域)
 
@@ -38,7 +38,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
-8. Reference (進階參照)
+8. Advanced Code Reference (進階參照)
 
 9. Ref of REX (正規表達式之參照)
 
