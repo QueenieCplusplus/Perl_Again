@@ -20,6 +20,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/file_io.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/dir_io.PL
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/dir_io_obj.PL
+
 7. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
