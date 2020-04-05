@@ -80,6 +80,8 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
     $& mean comparing  output (such as Boolean)
     
     $_ means loop_variable (such as Iterator)
+    
+    @_varible_name means array type data
 
 # Perl has 4 build systems
 
