@@ -45,6 +45,12 @@ install Bundle::CPAN
 
 install <Module_name>
 
+1. https://github.com/QueenieCplusplus/Perl_Again/blob/master/1.open_prompt.png
+
+2.
+
+3.
+
 # add Env Path 增加環境變數
 
          local::lib is installed. You must now add the following environment variables
