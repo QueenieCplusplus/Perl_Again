@@ -24,6 +24,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/dir_io_obj.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/interactive_io.PL
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/pipe_io.PL
+
 7. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
