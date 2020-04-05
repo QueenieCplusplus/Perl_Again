@@ -84,6 +84,12 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
     $_ means loop_variable (such as Iterator)
     
     @varible_name means array type data
+    
+# most_used Subroutine called shift
+
+返回在一個數組中的第一個值，刪除和移位到左邊的元素數組列表一個位置。
+
+shift ( [ARRAY] )
 
 # Perl has 4 build systems
 
