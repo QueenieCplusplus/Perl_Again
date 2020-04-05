@@ -2,7 +2,13 @@
 
 # Perl Program Env
 
-http://www.barebones.com/support/textwrangler/coderdojo.html
+check version of OSX and version of BBedit || textWrangler
+
+http://www.barebones.com/support/textwrangler/coderdojo.html (textWrangler)
+
+https://www.barebones.com/products/bbedit/comparison.html (BBedit)
+
+http://www.barebones.com/support/bbedit/updates.html#new13 (download)
 
 # Sybtax
 
