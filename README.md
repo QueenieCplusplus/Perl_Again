@@ -4,15 +4,13 @@ table of contents
 
 0. How to execute a perl program in system
 
-1. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
+1. Ｓcalar, Ａrray, Ｈash (純量｜陣列｜雜湊，三種資料型別的參照)
 
-2. List Ops: map, sort, grep (串列運算符號)
+2. List Ops: grep, sort, map (串列運算符號)
 
    串列即有序排列的純量集合，將串列存入陣列是陣列的串列，在 perl 中，陣列是儲存串列的容器。
 
-3. Data (資料命名空間的參照用法)
-
-4. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
+3. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/file_io.PL
 
@@ -26,7 +24,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/pipe_io.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/scalar_io.PL
 
-5. Object Syntax (物件)
+4. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
 
@@ -36,16 +34,18 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
-6. Control Logics: while, if, for, foreach (邏輯閘)
+5. Control Logics: while, if, for, foreach (邏輯閘)
 
-7. Code Ref (副常式參照)
+6. Code Ref (副常式參照)
 
    如果說變數是容器，副常式（方法）則是容器的行為，只要副常式參數化也算是資料結構之一。
 
-8. Scoping (參照的作用域)
+7. Scoping (參照的作用域)
 
 ----------
 (omit)
+
+8. Data (資料命名空間的參照用法)
 
 9. Advanced Code Reference (進階參照)
 
