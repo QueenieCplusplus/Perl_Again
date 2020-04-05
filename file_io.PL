@@ -33,7 +33,7 @@ sub output2fh {
 
 sub toString {
     my ( @data ) = @_;
-    open my $string_fh, '>', \ my $sting;
+    open my $string_fh, '>', \ my $string;
     output2fh($string_fh, @data);
     $string;
 }
