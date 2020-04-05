@@ -8,6 +8,8 @@ table of contents
 
 2. List Ops: map, sort, print, grep (串列運算符號)
 
+   串列即有序排列的純量集合，將串列存入陣列是陣列的串列，在 perl 中，陣列是儲存串列的容器。
+
 3. Data (資料命名空間的參照用法)
 
 4. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
