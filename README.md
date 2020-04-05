@@ -2,8 +2,6 @@
 
 table of contents
 
-0. How to execute a perl program in system
-
 1. Ｓcalar, Ａrray, Ｈash (純量｜陣列｜雜湊，三種資料型別的參照)
 
 2. List Ops: grep, sort, map (串列運算符號)
@@ -34,7 +32,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
-5. Control Logics: while, if, for, foreach (邏輯閘)
+5. while, if, for, foreach (邏輯閘)
 
 6. Code Ref (副常式參照)
 
