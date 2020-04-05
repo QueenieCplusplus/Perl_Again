@@ -16,6 +16,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/BBEdit.png (run code)
 
 https://how-to.fandom.com/wiki/How_to_install_PERL_modules
 
+open prompt in OSX
+
 perl -MCPAN -e shell
 
          CPAN.pm requires configuration, but most of it can be done automatically.
