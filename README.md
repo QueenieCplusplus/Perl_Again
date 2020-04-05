@@ -4,19 +4,13 @@ table of contents
 
 0. How to execute a perl program in system
 
-1. Code Ref (副常式參照)
+1. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
 
-   如果說變數是容器，副常式（方法）則是容器的行為，只要副常式參數化也算是資料結構之一。
+2. List Ops: map, sort, print, grep (串列運算符號)
 
-2. Scoping (參照的作用域)
+3. Data (資料命名空間的參照用法)
 
-3. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
-
-4. Control Logics: while, if, for, foreach (邏輯閘)
-
-5. List Ops: map, sort, print, grep (串列運算符號)
-
-6. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
+4. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/file_io.PL
 
@@ -30,7 +24,7 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/pipe_io.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/scalar_io.PL
 
-7. Object Syntax (物件)
+5. Object Syntax (物件)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/invoke.PL
 
@@ -40,11 +34,17 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/ISA.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
-8. Advanced Code Reference (進階參照)
+6. Control Logics: while, if, for, foreach (邏輯閘)
 
-9. Ref of REX (正規表達式之參照)
+7. Code Ref (副常式參照)
 
-10. Data (資料命名空間的參照用法)
+   如果說變數是容器，副常式（方法）則是容器的行為，只要副常式參數化也算是資料結構之一。
+
+8. Scoping (參照的作用域)
+
+9. Advanced Code Reference (進階參照)
+
+10. Ref of REX (正規表達式之參照)
 
 # Raku is brother of Perl
 
