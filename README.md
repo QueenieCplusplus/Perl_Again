@@ -2,9 +2,13 @@
 
 table of contents
 
-資料結構部分：
+基本資料結構部分：
 
 1. Ｓcalar, Ａrray, Ｈash (純量｜陣列｜雜湊，三種資料型別的參照)
+
+----------
+
+其他資料結構部分：
 
 2. List Ops: grep, sort, map (串列運算符號)
 
