@@ -14,7 +14,7 @@ table of contents
 
 5. List Ops: map, sort, print, grep (串列運算符號)
 
-6. File Handler called fh : (file, dir, terminal, pipe, scalar, handler) (檔案代號的參照)
+6. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/file_io.PL
 
@@ -25,6 +25,8 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/dir_io_obj.PL
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/interactive_io.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/pipe_io.PL
+
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/scalar_io.PL
 
 7. Object Syntax (物件)
 
