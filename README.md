@@ -37,6 +37,10 @@ perl -MCPAN -e shell
       
 local::lib   
 
+install Bundle::CPAN
+
+install <Module_name>
+
 # Syntax
 
 table of contents
