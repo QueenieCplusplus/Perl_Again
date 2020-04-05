@@ -43,6 +43,29 @@ install Bundle::CPAN
 
 install <Module_name>
 
+# add Env Path 增加環境變數
+
+         local::lib is installed. You must now add the following environment variables
+         to your shell configuration files (or registry, if you are on Windows) and
+         then restart your command line shell and CPAN before installing modules:
+
+         PATH="/Users/pintred/perl5/bin${PATH:+:${PATH}}"; export PATH;
+         PERL5LIB="/Users/pintred/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+         PERL_LOCAL_LIB_ROOT="/Users/pintred/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+         PERL_MB_OPT="--install_base \"/Users/pintred/perl5\""; export PERL_MB_OPT;
+         PERL_MM_OPT="INSTALL_BASE=/Users/pintred/perl5"; export PERL_MM_OPT;
+
+         Would you like me to append that to /Users/pintred/.zshrc now? [yes] yes
+
+
+         commit: wrote '/Users/pintred/.cpan/CPAN/MyConfig.pm'
+
+         You can re-run configuration any time with 'o conf init' in the CPAN shell
+         Terminal does not support AddHistory.
+
+         cpan shell -- CPAN exploration and modules installation (v2.00)
+         Enter 'h' for help.
+
 # Syntax
 
 table of contents
