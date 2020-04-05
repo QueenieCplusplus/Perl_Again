@@ -47,7 +47,7 @@ install <Module_name>
 
 1. https://github.com/QueenieCplusplus/Perl_Again/blob/master/1.open_prompt.png
 
-2.
+2. https://github.com/QueenieCplusplus/Perl_Again/blob/master/2.install_modules.png
 
 3.
 
