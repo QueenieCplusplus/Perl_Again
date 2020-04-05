@@ -6,7 +6,7 @@ table of contents
 
 1. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
 
-2. List Ops: map, sort, print, grep (串列運算符號)
+2. List Ops: map, sort, grep (串列運算符號)
 
    串列即有序排列的純量集合，將串列存入陣列是陣列的串列，在 perl 中，陣列是儲存串列的容器。
 
