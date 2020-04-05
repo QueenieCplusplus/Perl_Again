@@ -4,6 +4,8 @@
 
 check version of OSX and version of BBedit || textWrangler || VScode
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/6.vscode.png
+
 https://wheatoncollege.edu/wp-content/uploads/2010/06/Mac_InstallPerl.pdf (engine)
 
 http://www.barebones.com/support/textwrangler/coderdojo.html (textWrangler)
