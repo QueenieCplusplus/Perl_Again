@@ -49,7 +49,7 @@ install <Module_name>
 
 2. https://github.com/QueenieCplusplus/Perl_Again/blob/master/2.install_modules.png
 
-3.
+3. https://github.com/QueenieCplusplus/Perl_Again/blob/master/3.intall_complete.png
 
 # add Env Path 增加環境變數
 
