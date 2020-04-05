@@ -42,6 +42,9 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
 8. Scoping (參照的作用域)
 
+----------
+(omit)
+
 9. Advanced Code Reference (進階參照)
 
 10. Ref of REX (正規表達式之參照)
