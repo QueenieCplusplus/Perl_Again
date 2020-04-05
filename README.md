@@ -6,6 +6,8 @@ table of contents
 
 1. Code Ref (副常式參照)
 
+   如果說變數是容器，副常式（方法）則是容器的行為，只要副常式參數化也算是資料結構之一。
+
 2. Scoping (參照的作用域)
 
 3. Ref of Basic Types: scalar, array, hash (純量｜陣列｜雜湊，三種資料型別的參照)
