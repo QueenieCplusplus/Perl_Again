@@ -101,15 +101,15 @@ table of contents
    
    grep（global_search regular expression, print out the line) 全面搜索正規表達式列印
    
-   sort 常見 (故略)
-   
-   map (to do...)
-   
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/grep_list.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/grep_list2.PL
 
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/grep_list3.PL
+
+   map
+
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/map.PL
 
 3. File Handler called fh : (file, dir, terminal, pipe, scalar) (檔案代號的參照)
 
