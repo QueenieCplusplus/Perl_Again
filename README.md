@@ -104,7 +104,7 @@ by using keywords keysymbols such as $scalar_var, @array_list, %hash and using $
 
    串列即有序排列的純量集合，將串列存入陣列是陣列的串列，在 perl 中，陣列是儲存串列的容器。
    
-   grep（global_search regular expression, print out the line) 全面搜索正規表達式列印
+grep（global_search regular expression, print out the line) 全面搜索正規表達式列印
    
 https://github.com/QueenieCplusplus/Perl_Again/blob/master/grep_list.PL
 
