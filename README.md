@@ -150,6 +150,10 @@ https://github.com/QueenieCplusplus/Perl_Again/blob/master/cat.pm
 
 5. while, if, for, foreach (邏輯閘)
 
+if-else https://github.com/QueenieCplusplus/Perl_Again/blob/master/map3.PL
+
+for-loop https://github.com/QueenieCplusplus/Perl_Again/blob/master/array.PL 
+
 6. Code Ref (副常式參照)
 
    如果說變數是容器，副常式（方法）則是容器的行為，只要副常式參數化也算是資料結構之一。
