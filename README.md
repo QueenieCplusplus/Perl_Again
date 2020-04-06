@@ -180,6 +180,8 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
     
     @varible_name means array type data
     
+    %hash is the definition way of Hash
+    
 # most_used Subroutine called shift
 
 返回在一個數組中的第一個值，刪除和移位到左邊的元素數組列表一個位置。
