@@ -91,6 +91,11 @@ table of contents
 
 1. Ｓcalar, Ａrray, Ｈash (純量｜陣列｜雜湊，三種資料型別的參照)
 
+https://github.com/QueenieCplusplus/Perl_Again/blob/master/array.PL 
+
+this above code got mix_types conversion amongst scalar, array and mapping_hash
+by using keywords keysymbols such as $scalar_var, @array_list, %hash and using $array_name[index] || ${$items}[index] to convert from array to scalar, and to chek whether item is exist in a array by converting to map to check key is there or not.
+
 ----------
 
 其他資料結構部分：
