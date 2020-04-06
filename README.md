@@ -176,6 +176,8 @@ Perl got a sister called Ruby, who is almost died in 2018, and since Perl versio
 
     my $vaiable_name
     
+    $scalar
+    
     $! means error output
     
     $& mean comparing  output (such as Boolean)
